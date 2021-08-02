@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.tryuhu235.tk</id>
     <title>yayaD  资  源  分  享  </title>
-    <updated>2021-08-02T03:35:03.896Z</updated>
+    <updated>2021-08-02T03:35:59.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.tryuhu235.tk"/>
     <link rel="self" href="https://www.tryuhu235.tk/atom.xml"/>
@@ -11,30 +11,6 @@
     <logo>https://www.tryuhu235.tk/images/avatar.png</logo>
     <icon>https://www.tryuhu235.tk/favicon.ico</icon>
     <rights>All rights reserved 2021, yayaD  资  源  分  享  </rights>
-    <entry>
-        <title type="html"><![CDATA[    某盘不限速下载版复活]]></title>
-        <id>https://www.tryuhu235.tk/post/mou-pan-bu-xian-su-xia-zai-ban-fu-huo/</id>
-        <link href="https://www.tryuhu235.tk/post/mou-pan-bu-xian-su-xia-zai-ban-fu-huo/">
-        </link>
-        <updated>2021-08-02T01:15:33.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://www.tryuhu235.tk/post-images/1627867012171.png" alt="" loading="lazy"></figure>
-<p>Pandownload，一款老牌的不限速网盘下载工具，阿里云盘出现之前，我都是配合它和度盘一起使用，网盘下载速度直接拉满 —— 真正的不限速，之前用的老版本，作者去年因被度盘举报请去喝茶了，太难了。</p>
-<p>安装完成后<br>
-打开自己的百度网盘！找到需要下载的文件，点击右键，点击分享，创建链接，复制链接，软件后自动嗅探到需要下载的软件</p>
-<p><img src="https://www.tryuhu235.tk/post-images/1627867040716.JPG" alt="" loading="lazy"><br>
-故障原因：</p>
-<p>1：报错：初始化脚本失败<br>
-解答：解压出来再运行，不要直接在压缩包里面运行（提供的压缩包文件，右键，解压出来，而不是直接双击压缩包文件）</p>
-<p>2：总是提示未登录<br>
-退出软件重进（选择管理员运行），下载任务栏---端口（选择SVIP下载）</p>
-<p>3：打开分享链接失效，分享链接无效？</p>
-<p>文件数量过多，建议分批下载。（里面可能存在质量差的文件，软件短时间无法读获取到链接地址，分批下载即可）</p>
-<p>杀毒没关，关闭重新打开下载。</p>
-<p>分享链接本身无效或分享链接可能违规，已经被官方停止分享。可以下载其他资源进行比较。</p>
-<p>获取方式</p>
-<p>关注微信公众号【星影社】后台回复资源代码【Pandownload】获取资源链接！</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[21年7月31日免费SS / SSR / V2Ray节点更新]]></title>
         <id>https://www.tryuhu235.tk/post/21-nian-7-yue-31-ri-mian-fei-ss-ssr-v2ray-jie-dian-geng-xin/</id>
@@ -352,6 +328,36 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAg
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICJpbjAxLnYybmV0LnRvcCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxQkFBQzdFMC05MThDLTkyQUEtN0Q3MS02NzU1N0E5ODJGNkMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==<br>
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICIyMy4yMjQuMzAuMzciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTQ0OTQ1MTgtNzRlOC00ZDZiLTk0MmEtNmIzMzJjY2UwOWVmIiwNCiAgImFpZCI6ICI2NCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAid3d3LjAxOTAyMzY3Lnh5eiIsDQogICJwYXRoIjogIi9wYXRoLzMxMDkxMDIxMTkxNiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9<br>
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICI0Ni4xODIuMTA3LjkzIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjc0M2JkYzg3LTFkZWEtNDFiZi1hYTBiLTUxZGZiYmZlYzhhYSIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInd3dy41NDg3MjgzMy54eXoiLA0KICAicGF0aCI6ICIvZm9vdGVycyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21年7月18日免费SS / SSR / V2Ray节点更新]]></title>
+        <id>https://www.tryuhu235.tk/post/21-nian-7-yue-18-ri-mian-fei-ss-ssr-v2ray-jie-dian-geng-xin/</id>
+        <link href="https://www.tryuhu235.tk/post/21-nian-7-yue-18-ri-mian-fei-ss-ssr-v2ray-jie-dian-geng-xin/">
+        </link>
+        <updated>2021-07-19T08:41:32.000Z</updated>
+        <content type="html"><![CDATA[<p>国家利益和民族团结高于一切 ！！使用网络时请严格遵守国家法律法规规定，请勿从事色情、暴恐、破坏国家安全等违反国家法律的活动，科学上网，不谈政治，不谈宗教，不碰黄赌毒。相关的法律责任作者无须言明。龙的传人需自律，有损国家利益和民族团结的事情，坚决不做！望各位珍重</p>
+<p>电报群更新节点 ：<a href="https://t.me/dafeiji100">https://t.me/dafeiji100</a></p>
+<p>ss://YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFkQDIzLjgyLjExLjQ5OjM3NTg4#https%3a%2f%2ft.me%2fdafeiji100<br>
+ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhUQDEzNy41OS41Mi4xMDc6NTAxNjg=#https%3a%2f%2ft.me%2fdafeiji100<br>
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDIzLjgyLjExLjQ5OjM5Nzcy#https%3a%2f%2ft.me%2fdafeiji100<br>
+ss://YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFkQDE5OC44LjkyLjg0OjM3NTg4#https%3a%2f%2ft.me%2fdafeiji100<br>
+ss://YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2QDE4NS40NC43Ni4xODg6MzE3NjQ=#https%3a%2f%2ft.me%2fdafeiji100<br>
+ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhUQDE5OC44LjkyLjg0OjUwMTY4#https%3a%2f%2ft.me%2fdafeiji100<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAiLA0KICAiYWRkIjogIjE4LjE2Ni4yMTQuMzMiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJjYzhiNDlhNi01NzdjLTQ2NmUtYWE2Zi1kOTQxYTRjMzdlNzAiLA0KICAiYWlkIjogIjEiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInB1bGwuZnJlZS52aWRlby4xMDAxMC5jb20iLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICJzZzIxMC53d2luLmdhIiwNCiAgInBvcnQiOiAiNTkxOTMiLA0KICAiaWQiOiAiOGE2ODgzYzItZTVlMi00YTA0LWQ5YTMtZWVkZThlNDk4ODVjIiwNCiAgImFpZCI6ICI2NCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICI5Ni40My45MS41OCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIzYmZiNDNlMi03ZGZlLTQ3NTctODZlZS0xY2U5ZmI5ZmQxM2EiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ3d3cuNDUyMTg0NDMueHl6IiwNCiAgInBhdGgiOiAiL3BhdGgvMzEwOTEwMjExOTE2IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICI2Ny4yMS44NS4yMiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJiOWEzMDVhOS0xZmYyLTRlYzEtYjMzOC05MzM1NTU4MzNiYWEiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ3d3cuNjc3NjcyNjUwLnh5eiIsDQogICJwYXRoIjogIi9wYXRoLzMxMDkxMDIxMTkxNiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICI2Ny4yMS44NS4yMiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJiOWEzMDVhOS0xZmYyLTRlYzEtYjMzOC05MzM1NTU4MzNiYWEiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ3d3cuNjc3NjcyNjUwLnh5eiIsDQogICJwYXRoIjogIi9wYXRoLzMxMDkxMDIxMTkxNiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICJ1cy50Y3BiYnIubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjVjN2IzM2M2LTZkODMtMTFlYi1iNzdiLWYyM2M5MTNjOGQyYiIsDQogICJhaWQiOiAiMiIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICI0Ni4xODIuMTA3LjE1NCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxMzBjOWYyZS00MmIxLTRlYmYtYjM0NS1lMjY0NTZhMDYxZjkiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ3d3cuMDUyMjIwMjcueHl6IiwNCiAgInBhdGgiOiAiL2Zvb3RlcnMiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICIxNzMuODIuMjMuMTg5IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjg2NjU1NDJhLTYwZWMtNDI3Zi05NmEwLWYyYTUwNjVhYWRhZSIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInd3dy4yNzgwNDM2Ny54eXoiLA0KICAicGF0aCI6ICJwYXRoLzA2MDczNDA3MDAzNCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ3d3cuMjc4MDQzNjcueHl6Ig0KfQ==<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICI1NC4yMTUuMjM0LjE4MiIsDQogICJwb3J0IjogIjE0OTI0IiwNCiAgImlkIjogImQwOTk4MjRkLTgyNTktNGM0NS1mNmFiLWMxODk2Zjc0MTM5MyIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICI1NC4yMTUuMjM0LjE4MiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICI0Ni4xODIuMTA3LjE1NyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIyMGIzMDkxNi1lMjAzLTQxMmUtOGVjMC05MDBmM2FjZDUxMjgiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ3d3cuNzMzNDU3NDEueHl6IiwNCiAgInBhdGgiOiAiL2Zvb3RlcnMiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICIyMy4yMjQuMzAuMzYiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTQ0OTQ1MTgtNzRlOC00ZDZiLTk0MmEtNmIzMzJjY2UwOWVmIiwNCiAgImFpZCI6ICI2NCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAid3d3LjAxOTAyMzY3Lnh5eiIsDQogICJwYXRoIjogIi9wYXRoLzMxMDkxMDIxMTkxNiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICIxNTQuODQuMS4yMTciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMTMwYzlmMmUtNDJiMS00ZWJmLWIzNDUtZTI2NDU2YTA2MWY5IiwNCiAgImFpZCI6ICI2NCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAid3d3LjA1MjIyMDI3Lnh5eiIsDQogICJwYXRoIjogIi9mb290ZXJzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICJpbjAxLnYybmV0LnRvcCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxQkFBQzdFMC05MThDLTkyQUEtN0Q3MS02NzU1N0E5ODJGNkMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vdC5tZS9kYWZlaWppMTAwIiwNCiAgImFkZCI6ICJiYW40LmZlaWNsb3VkZGQubWUiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNmRhNDMxZTQtZDdiMS00ZjYxLWIzZTItZjNmOGQ2ZjAzYmI4IiwNCiAgImFpZCI6ICI2MCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYmFuNC5mZWljbG91ZGRkLm1lIiwNCiAgInBhdGgiOiAiL3NkYWZhc2ZzYSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9</p>
 ]]></content>
     </entry>
 </feed>
